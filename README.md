@@ -1,4 +1,4 @@
-# Cbrst Tap
+# cbrst Tap
 
 ## How do I install these formulae?
 
